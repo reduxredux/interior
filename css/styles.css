@@ -1,8 +1,25 @@
 .column {
   float: left;
-  width: 33%;
+  width: 30%;
+  margin: 2em;
+  padding: 2em;
+  box-sizing: border-box;
 }
 
 img {
   width: 200px;
+  height: 100px;
+}
+
+#col1 {
+  background-color: rgb(120, 228, 177);
+
+}
+
+#col2 {
+  background-color: greenyellow;
+}
+
+#col3 {
+  background-color: rgb(38, 202, 38);
 }
